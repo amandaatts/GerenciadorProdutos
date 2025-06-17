@@ -24,18 +24,3 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) para gerenciam
 * **Service**: lógica de negócio (opcional, nesse projeto simples ficou no controller)
 * **Controller**: endpoints REST para manipular produtos
 
-## Como rodar
-
-1. Clone o projeto
-2. Configure seu banco (por padrão H2 em memória)
-3. Rode a aplicação com `mvn spring-boot:run` ou no seu IDE favorito
-4. Use ferramentas como Postman para testar os endpoints `/product`
-
-## Referência
-
-Este projeto foi desenvolvido com base no vídeo:
-
-[CRUD Spring Boot | Vídeo do YouTube](https://www.youtube.com/watch?v=tP6wtEaCnSI)
-
----
-
