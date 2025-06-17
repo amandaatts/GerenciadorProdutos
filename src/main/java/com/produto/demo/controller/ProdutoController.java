@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.produto.demo.controller.entities.Produto;
 import com.produto.demo.dto.RequestDTO;
+import com.produto.demo.entities.Produto;
 import com.produto.demo.repositories.ProdutoRepository;
 
 import jakarta.validation.Valid;
